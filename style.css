@@ -1,0 +1,136 @@
+    body {
+    background-color: #0f172a;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    color: #e0e0e0;
+    margin: 20px;
+    }
+
+table {
+  width: 90%;
+  margin: auto;
+  border-collapse: collapse;
+  font-family: Arial, sans-serif;
+  color: #fff;
+  background-color: #111827;
+}
+
+th, td {
+  border: 1px solid #1f2937;
+  padding: 8px 12px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+thead {
+  background-color: #1f2937;
+  font-weight: 600;
+}
+
+input[type="checkbox"] {
+  width: 20px;
+  height: 20px;
+  accent-color: #3b82f6;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+select {
+  width: 50px; 
+  height: 32px;  
+  background-color: #1e293b; 
+  color: #f1f5f9;    
+  border: 1px solid #3b82f6;
+  border-radius: 6px; 
+  padding: 2px 5px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+select option {
+  background-color: #1e293b; 
+  color: #f1f5f9;
+}
+
+
+.sum-cell {
+  font-weight: bold;
+  color: #ef4444; 
+  background-color: #b91c1c;
+  border-radius: 12px;
+  padding: 6px 12px;
+  min-width: 36px;
+}
+
+
+    input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+    accent-color: #2563eb;
+    }
+
+    select {
+    background-color: #0f172a;
+    color: #cbd5e1;
+    border: 1px solid #334155;
+    padding: 4px 6px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+    width: 50px;
+    }
+
+    .comment-icon {
+    width: 18px;
+    height: 18px;
+    display: inline-block;
+    cursor: pointer;
+    color: #2563eb;
+    position: relative;
+    vertical-align: middle;
+    }
+
+    .comment-icon.active {
+    color: #3b82f6;
+    }
+
+    .sum-cell {
+    background-color: #dc2626;
+    border-radius: 22px;
+    width: 38px;
+    height: 28px;
+    color: white;
+    font-weight: 700;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 28px;
+    user-select: none;
+    margin: auto;
+    }
+
+
+
+
+    input[type="number"], select {
+    background-color: #2e2e2e;
+    color: #eee;
+    border: 1px solid #555;
+    border-radius: 4px;
+    padding: 4px 8px;
+    font-size: 14px;
+    width: 60px;
+    transition: border-color 0.3s, box-shadow 0.3s;
+    }
+
+
+    input[type="checkbox"] {
+    width: 18px;
+    height: 18px;
+    cursor: pointer;
+    accent-color: #5c9ded;
+    }
+
+    .sum-cell {
+    font-weight: bold;
+    color: #5c9ded;
+    }

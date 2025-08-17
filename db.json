@@ -1,0 +1,112 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Ahmad Kamolov",
+      "balls": [
+        {"id": 1,"date": "Monday","score": 5},
+        {"id": 2,"date": "Tuesday","score": 2},
+        {"id": 3,"date": "Wednesday","score": 4},
+        {"id": 4,"date": "Thursday","score": 4},
+        {"id": 5,"date": "Friday","score": 3},
+        {"id": 6,"date": "Saturday","score": 1}
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Rohila Naimova",
+      "balls": [
+        {"id": 1,"date": "Monday","score": 4},
+        {"id": 2,"date": "Tuesday","score": 2},
+        {"id": 3,"date": "Wednesday","score": 4},
+        {"id": 4,"date": "Thursday","score": 4},
+        {"id": 5,"date": "Friday","score": 3},
+        {"id": 6,"date": "Saturday","score": 5}
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Kamol Aminjonov",
+      "balls": [
+        {"id": 1,"date": "Monday","score": 4},
+        {"id": 2,"date": "Tuesday","score": 2},
+        {"id": 3,"date": "Wednesday","score": 4},
+        {"id": 4,"date": "Thursday","score": 4},
+        {"id": 5,"date": "Friday","score": 3},
+        {"id": 6,"date": "Saturday","score": 5}
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Talabsho Negmatov",
+      "balls": [
+        {"id": 1,"date": "Monday","score": 4},
+        {"id": 2,"date": "Tuesday","score": 2},
+        {"id": 3,"date": "Wednesday","score": 4},
+        {"id": 4,"date": "Thursday","score": 4},
+        {"id": 5,"date": "Friday","score": 3},
+        {"id": 6,"date": "Saturday","score": 5}
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Haydarsho Negmatov",
+      "balls": [
+        {"id": 1,"date": "Monday","score": 4},
+        {"id": 2,"date": "Tuesday","score": 2},
+        {"id": 3,"date": "Wednesday","score": 4},
+        {"id": 4,"date": "Thursday","score": 4},
+        {"id": 5,"date": "Friday","score": 3},
+        {"id": 6,"date": "Saturday","score": 5}
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Abubakr Shoev",
+      "balls": [
+        {"id": 1,"date": "Monday","score": 4},
+        {"id": 2,"date": "Tuesday","score": 2},
+        {"id": 3,"date": "Wednesday","score": 4},
+        {"id": 4,"date": "Thursday","score": 4},
+        {"id": 5,"date": "Friday","score": 3},
+        {"id": 6,"date": "Saturday","score": 5}
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Yahyo Hasanov",
+      "balls": [
+        {"id": 1,"date": "Monday","score": 4},
+        {"id": 2,"date": "Tuesday","score": 2},
+        {"id": 3,"date": "Wednesday","score": 4},
+        {"id": 4,"date": "Thursday","score": 4},
+        {"id": 5,"date": "Friday","score": 3},
+        {"id": 6,"date": "Saturday","score": 5}
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Sadullo Sharipov",
+      "balls": [
+        {"id": 1,"date": "Monday","score": 4},
+        {"id": 2,"date": "Tuesday","score": 2},
+        {"id": 3,"date": "Wednesday","score": 4},
+        {"id": 4,"date": "Thursday","score": 4},
+        {"id": 5,"date": "Friday","score": 3},
+        {"id": 6,"date": "Saturday","score": 5}
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Ramziya Bahtiyorzoda",
+      "balls": [
+        {"id": 1,"date": "Monday","score": 4},
+        {"id": 2,"date": "Tuesday","score": 2},
+        {"id": 3,"date": "Wednesday","score": 4},
+        {"id": 4,"date": "Thursday","score": 4},
+        {"id": 5,"date": "Friday","score": 3},
+        {"id": 6,"date": "Saturday","score": 5}
+      ]
+    }
+  ]
+}
